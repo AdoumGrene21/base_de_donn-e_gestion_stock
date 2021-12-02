@@ -19,4 +19,5 @@ conception et implémentation de la base de données de gestion d'une entreprise
 
 ## Auteur.
 
-<a href="https://github.com/AdoumGrene21">Adoum ahmat Grene</a>
+<a href="https://github.com/AdoumGrene21">Adoum ahmat Grene</a> 
+dev junior. 
